@@ -18,4 +18,5 @@ File explanation:
 * `print_results.py` will be inputting the results dictionary and the results statistics dictionary to print a summary of the results.
 
 **Note**
+
 This project was part of UDACITY: AI Programming with Python Course, pushed to personal repository in purpose of showing ability in creating function. 
